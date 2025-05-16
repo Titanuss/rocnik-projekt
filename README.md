@@ -1,3 +1,4 @@
+[![YouTube Video](https://img.youtube.com/vi/7zmBu_WaYcY/0.jpg)](https://youtu.be/7zmBu_WaYcY)
 # Přenosný kytarový zesilovač na baterie
 
 **Školní projekt – jednoduchý bateriový zesilovač pro elektrickou kytaru**
