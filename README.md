@@ -47,7 +47,7 @@ Použitý reproduktor by měl odpovídat výstupu zesilovače. Doporučuje se:
 
 Lze použít vestavěný i externí reproduktor podle preferencí.
 
-## ⚙Základní propojení (kabeláž)
+## Základní propojení (kabeláž)
 
 Jednotlivé moduly jsou propojeny standardními vodiči, ideálně s dostatečným průřezem pro napájení (např. 0.5–1 mm²) a stíněnými kabely pro audio signál (např. mezi kytarovým vstupem a tone modulem). Délky a způsob zapojení závisí na konkrétní skříni nebo konstrukci zesilovače.
 
